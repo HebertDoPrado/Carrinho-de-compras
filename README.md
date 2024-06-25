@@ -17,7 +17,7 @@ onde o usuário irá conseguir escolher o produto a quantidade desse mesmo produ
 <h2> 🛒 Funcionalidades</h2>
 
 - Escolha de produtos 
-  Quantidade de produtos escolhidos
+-  Quantidade de produtos escolhidos
 - Adição de produtos no carrinho
 - Limpar carrinho
   <br>
